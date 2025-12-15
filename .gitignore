@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+
+model.pkl
+.ipynb_checkpoints/
+crime_dataset_india.csv
